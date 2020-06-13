@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+version = '0.1-RELEASE'
+
 buildscript {
   repositories {
     jcenter()
@@ -85,7 +87,7 @@ artifactory {
   contextUrl = 'http://127.0.0.1:8081/artifactory'
   publish {
     repository {
-      repoKey = 'libs-snapshot-local' // The Artifactory repository key to publish to
+      repoKey = 'libs-release-local' // The Artifactory repository key to publish to
       username = "${artifactory_user}" // The publisher user name
       password = "${artifactory_password}" // The publisher password
       // This is an optional section for configuring Ivy publication (when publishIvy = true).
