@@ -19,6 +19,7 @@
     </licenses>
 
     <build>
+        <outputDirectory>../common</outputDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
