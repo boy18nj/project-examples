@@ -7,7 +7,7 @@
         <version>3.8.1-RELEASE</version>
     </parent>
 
-    <artifactId>multi1</artifactId>
+    <artifactId>multi</artifactId>
     <packaging>jar</packaging>
     <name>Multi 1</name>
 
