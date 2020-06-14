@@ -11,7 +11,7 @@
         <daversion>${project.parent.version}</daversion>
     </properties>
 
-    <artifactId>multi2</artifactId>
+    <artifactId>multi</artifactId>
     <version>3.8.1-RELEASE</version>
     <packaging>jar</packaging>
     <name>Multi 2</name>

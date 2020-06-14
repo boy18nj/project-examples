@@ -7,7 +7,7 @@
         <version>3.8.1-RELEASE</version>
     </parent>
 
-    <artifactId>multi3</artifactId>
+    <artifactId>multi</artifactId>
     <packaging>war</packaging>
     <name>Multi 3</name>
 
